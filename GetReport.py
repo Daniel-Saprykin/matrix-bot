@@ -27,7 +27,7 @@ chrome_driver_path = '/home/daniel/Загрузки/1/chromedriver-linux64/chrom
 # Путь к исполняемому файлу Chrome
 chrome_binary_path = '/home/daniel/Загрузки/1/chrome-linux64/chrome'
 # Путь для сохранения файлов
-download_dir = '/home/daniel/projekts/Python/uzkh/files/'
+download_dir = '/home/daniel/projekts/Python/files/'
 # Создание папки для загрузок, если она не существует
 os.makedirs(download_dir, exist_ok=True)
 
